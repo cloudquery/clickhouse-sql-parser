@@ -1,4 +1,4 @@
-module github.com/AfterShip/clickhouse-sql-parser
+module github.com/cloudquery/clickhouse-sql-parser
 
 go 1.18
 
